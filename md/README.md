@@ -5,7 +5,10 @@ Project description
 Thee [full documentation] is available on Read the Docs.
 
 #### Authors
-**Main developer: [My Name]**  
+**Main developers: [My Name]**  
+Collaborators: [My Name]  
+
+
 *This is a [Platypus Dev] project.*
 
    [Platypus Dev]: <https://github.com/dev-platypus>
