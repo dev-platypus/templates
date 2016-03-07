@@ -4,6 +4,8 @@ All kinds of templates, used by the Platypus Dev members.
 
 #### Authors
 **Main developers: [Alexander Lenz], [Andreas Schulz]**  
+
+
 *This is a [Platypus Dev] project.*
 
    [Platypus Dev]: <https://github.com/dev-platypus>
