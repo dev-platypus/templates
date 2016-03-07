@@ -1,6 +1,6 @@
 # Platypus Dev Templates
 
-All kinds of templates, used by the Platypus Dev members.^
+All kinds of templates, used by the Platypus Dev members.
 
 #### Authors
 **Main developers: [Alexander Lenz], [Andreas Schulz]**  
