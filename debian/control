@@ -1,0 +1,11 @@
+Source: mypkg
+Maintainer: Alexander Lenz <fslenz@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9.0.0)
+
+Package: mypkg
+#Depends: 
+Architecture: all
+Description: Some desc
